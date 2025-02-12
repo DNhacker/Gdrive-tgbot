@@ -76,7 +76,8 @@ To allow the bot to access Google Drive, follow these steps:
 ## 3️⃣ Set Up the Telegram Bot
 1. Go to **[@BotFather](https://t.me/BotFather)** on Telegram.  
 2. Create a new bot using `/newbot` and get your **BOT_TOKEN**.  
-3. Replace `"YOUR_TELEGRAM_BOT_TOKEN"` in the script.
+3. Replace `"YOUR_TELEGRAM_BOT_TOKEN"` in the in tg.json.
+4. Replace `"user_id"` with your id in tg.json
 
 ---
 
